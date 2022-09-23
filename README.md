@@ -35,4 +35,4 @@ Algumas atividades de desenvolvimento seguro, são: a modelagem de ameaças, an�
 Apesar dessa estrutura de equipes existir, não necessariamente uma empresa terá um ou mais times direcionados para essas funções ou até mesmo, pessoas dedicadas à cibersegurança. Não é incomum que algumas organizações contratem consultorias especializadas neste tipo de serviço.
 
 ### Conclusão
-Em resumo, vimos que a cibersegurança tem tido cada vez mais destaque e que profissionais especialistas nesse assunto, também estão cada vez mais procurados. A cibersegurança é fundamental para proteção contra ataques como malwares, phishing, ransomware e engenharia social (ou social engineering) e o uso de estratégias de segurança são fundamentais para conseguir a proteção de forma mais assertiva.
+Em resumo, a cibersegurança é fundamental para proteção contra ataques como malwares, phishing, ransomware e engenharia social (ou social engineering) e o uso de estratégias de segurança são fundamentais para conseguir a proteção de forma mais assertiva.
