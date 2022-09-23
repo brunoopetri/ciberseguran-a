@@ -36,3 +36,8 @@ Apesar dessa estrutura de equipes existir, não necessariamente uma empresa ter�
 
 ### Conclusão
 Em resumo, a cibersegurança é fundamental para proteção contra ataques como malwares, phishing, ransomware e engenharia social (ou social engineering) e o uso de estratégias de segurança são fundamentais para conseguir a proteção de forma mais assertiva.
+
+**Referência Bibliografica** :
+
+* Introdução à Cibersegurança. A internet, os aspetos legais e a análise digital forense - Mário Antunes e Baltazar Rodrigues - Editora FCA
+* Cibersegurança (Série Universitária) -  Haroldo Ferreira - Editora Senac
