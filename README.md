@@ -25,12 +25,14 @@ O Red team atua na defesa ofensiva, buscando vulnerabilidades potenciais e a for
 
 Penetration testing (também conhecido como pentesting) atividade com foco em encontrar problemas de segurança em um determinado alvo, e é uma forma de conferir a segurança tentando penetrar nos sistemas da organização, descobrir de que forma a organização está vulnerável e quais as formas de ataque e como a defesa ocorreria durante o ataque.
 
+ É importante mencionar que existem organizações que também estão adotando o purple team que é uma equipe que tem como objetivo garantir a sinergia e a colaboração entre o blue team e o red team.
+
 ![image](https://user-images.githubusercontent.com/98756562/192014108-d95c7fa9-44b4-489a-89e7-25e6b21a3cda.png)
 
 ### Desenvolvimento seguro
 Já o desenvolvimento seguro diz respeito a adoção de práticas de segurança no processo de desenvolvimento de software, ou seja, em todas as etapas de desenvolvimento de software, são adotadas práticas para identificar, remover e prevenir vulnerabilidades e resistir a ataques (esse processo também é conhecido como AppSec ou application security).
 
-Algumas atividades de desenvolvimento seguro, são: a modelagem de ameaças, análise do código, revisão de código e claro, implementação de uma cultura de “shift left” em segurança, ou seja, é trazida cedo no ciclo de vida do software. É importante mencionar que existem organizações que também estão adotando o purple team que é uma equipe que tem como objetivo garantir a sinergia e a colaboração entre o blue team e o red team.
+Algumas atividades de desenvolvimento seguro, são: a modelagem de ameaças, análise do código, revisão de código e claro, implementação de uma cultura de “shift left” em segurança, ou seja, é trazida cedo no ciclo de vida do software.
 
 Apesar dessa estrutura de equipes existir, não necessariamente uma empresa terá um ou mais times direcionados para essas funções ou até mesmo, pessoas dedicadas à cibersegurança. Não é incomum que algumas organizações contratem consultorias especializadas neste tipo de serviço.
 
