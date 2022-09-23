@@ -25,6 +25,8 @@ O Red team atua na defesa ofensiva, buscando vulnerabilidades potenciais e a for
 
 Penetration testing (também conhecido como pentesting) atividade com foco em encontrar problemas de segurança em um determinado alvo, e é uma forma de conferir a segurança tentando penetrar nos sistemas da organização, descobrir de que forma a organização está vulnerável e quais as formas de ataque e como a defesa ocorreria durante o ataque.
 
+![image](https://user-images.githubusercontent.com/98756562/192014108-d95c7fa9-44b4-489a-89e7-25e6b21a3cda.png)
+
 ### Desenvolvimento seguro
 Já o desenvolvimento seguro diz respeito a adoção de práticas de segurança no processo de desenvolvimento de software, ou seja, em todas as etapas de desenvolvimento de software, são adotadas práticas para identificar, remover e prevenir vulnerabilidades e resistir a ataques (esse processo também é conhecido como AppSec ou application security).
 
